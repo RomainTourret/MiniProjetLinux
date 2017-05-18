@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495135969 source:c:\users\augustin\desktop\miniprojetlinux\projetlinux2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
