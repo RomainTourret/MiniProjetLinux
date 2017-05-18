@@ -30,7 +30,7 @@ void Cd(char tab[100], int iCpt)
     }
     //On effectue la commande
     fork();
-    execl("/bin/sh", "-c", "cd", carac);
+    execl("/bin/sh", "-c", "cd", carac, NULL);
     kill();
 }
 
